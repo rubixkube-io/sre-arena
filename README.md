@@ -1,5 +1,7 @@
 # SRE Arena
 
+![SRE Arena Logo](assets/sre-arena-logo.png)
+
 > The open arena for evaluating AI-native operational systems.
 
 SRE Arena is a community initiative focused on creating realistic, reproducible, and transparent evaluation approaches for modern operational intelligence systems.
